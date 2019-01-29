@@ -12,4 +12,4 @@
 
 <h1>Notes:</h1>
 
-<p> When the code is executed 'Execution Context' is created. At the base level when not in a function you have 'Global Object that the JavaScript engines create for you. You get special variable call 'this' in the browser it is equal to 'window'. The execution context is running your code.<p>
+<p> When the code is executed 'Execution Context' is created. At the base level when not in a function you have 'Global Object'(window) that the JavaScript engines create for you. You get special variable call 'this' in the browser it is equal to 'window'. The execution context is running your code.<p>
